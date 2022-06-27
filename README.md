@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-"https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=로고명&logoColor=로고색"/>
+"https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=C++&logoColor=black"/>
 
 <!--
 **ChocoBreeze/ChocoBreeze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
