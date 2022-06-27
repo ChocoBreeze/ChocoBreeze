@@ -10,7 +10,7 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ds030337)](https://solved.ac/ds030337)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ds030337&layout=compact)](https://github.com/ds030337/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChocoBreeze&layout=compact)](https://github.com/ChocoBreeze/github-readme-stats)
 
 [![ChocoBreeze's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChocoBreeze)](https://github.com/ChocoBreeze/github-readme-stats)
 <!--
