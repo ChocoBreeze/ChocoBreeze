@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/C++-blue.svg?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+<a href="https://github.com/ChocoBreeze"><img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChocoBreeze%2F&count_bg=%23643DC8&title_bg=%23FF0000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
 
 <!--
 **ChocoBreeze/ChocoBreeze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
