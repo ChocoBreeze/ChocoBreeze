@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Have a good Day!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello!&fontSize=50)
 
 ## Used(experience)
 <a href = "https://github.com/ChocoBreeze"> <img src="https://img.shields.io/badge/C++-red.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
