@@ -12,15 +12,16 @@
 
 ## PS
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ds030337)](https://solved.ac/ds030337)
-<a href = "https://github.com/ChocoBreeze"> <img src="http://mazandi.herokuapp.com/api?handle=ds030337&theme=cold"/> </a>
+<a href = "https://www.acmicpc.net/user/ds030337"> <img src="http://mazandi.herokuapp.com/api?handle=ds030337&theme=cold"/> </a>
 
 ## Summary
 [![ChocoBreeze's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChocoBreeze)](https://github.com/ChocoBreeze/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChocoBreeze&layout=compact)](https://github.com/ChocoBreeze/github-readme-stats)
 
-## Now learning
+## Now learning(will learning)
 <a href = "https://github.com/ChocoBreeze"><img src="https://img.shields.io/badge/Kotlin-red?style=flat-square&logo=Kotlin&logoColor=white"/> </a>
 <a href = "https://github.com/ChocoBreeze"> <img src="https://img.shields.io/badge/Vue.js-orange?style=flat-square&logo=Vue.js&logoColor=white"/></a>
+<a href = "https://github.com/ChocoBreeze"> <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
 ## Blog
 <a href = "https://blog.naver.com/ds030337"> <img src="https://img.shields.io/badge/ChocoBreeze-Green?style=flat-square&logo=Naver&logoColor=white"/> </a>
