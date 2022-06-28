@@ -12,7 +12,7 @@
 
 ## PS
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ds030337)](https://solved.ac/ds030337)
-<img src="http://mazandi.herokuapp.com/api?handle=ds030337&theme=cold"/>
+<a href = "https://github.com/ChocoBreeze"> <img src="http://mazandi.herokuapp.com/api?handle=ds030337&theme=cold"/> </a>
 
 ## Summary
 [![ChocoBreeze's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChocoBreeze)](https://github.com/ChocoBreeze/github-readme-stats)
