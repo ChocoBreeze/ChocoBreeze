@@ -6,6 +6,8 @@
 <a href = "https://github.com/ChocoBreeze"> <img src="https://img.shields.io/badge/Visual Studio-yellow.svg?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
 <a href = "https://github.com/ChocoBreeze"> <img src="https://img.shields.io/badge/Visual Studio Code-yellowgreen.svg?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <a href = "https://github.com/ChocoBreeze"> <img src="https://img.shields.io/badge/IntelliJ IDEA-green.svg?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
+<a href = "https://github.com/ChocoBreeze"> <img src="https://img.shields.io/badge/JavaScript-blue?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<a href = "https://github.com/ChocoBreeze"> <img src="https://img.shields.io/badge/Unity-purple?style=flat-square&logo=Unity&logoColor=white"/></a>
 
 ## Visited
 - <a href="https://github.com/ChocoBreeze"><img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChocoBreeze&count_bg=%23000000&title_bg=%23FF0000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
@@ -15,13 +17,15 @@
 <a href = "https://www.acmicpc.net/user/ds030337"> <img src="http://mazandi.herokuapp.com/api?handle=ds030337&theme=cold"/> </a>
 
 ## Summary
-[![ChocoBreeze's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChocoBreeze)](https://github.com/ChocoBreeze/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChocoBreeze&layout=compact)](https://github.com/ChocoBreeze/github-readme-stats)
+<!--[![ChocoBreeze's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChocoBreeze)](https://github.com/ChocoBreeze/github-readme-stats)-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChocoBreeze&layout=compact)](https://github.com/ChocoBreeze/github-readme-stats)-->
 
 ## Now learning(will learning)
-<a href = "https://github.com/ChocoBreeze"><img src="https://img.shields.io/badge/Kotlin-red?style=flat-square&logo=Kotlin&logoColor=white"/> </a>
-<a href = "https://github.com/ChocoBreeze"> <img src="https://img.shields.io/badge/Vue.js-orange?style=flat-square&logo=Vue.js&logoColor=white"/></a>
-<a href = "https://github.com/ChocoBreeze"> <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<a href = "https://github.com/ChocoBreeze"> <img src="https://img.shields.io/badge/C++-red.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
+<a href = "https://github.com/ChocoBreeze"><img src="https://img.shields.io/badge/Unreal Engine-orange?style=flat-square&logo=Unreal Engine&logoColor=white"/></a>
+<a href = "https://github.com/ChocoBreeze"><img src="https://img.shields.io/badge/Kotlin-yellow?style=flat-square&logo=Kotlin&logoColor=white"/> </a>
+<!-- <a href = "https://github.com/ChocoBreeze"><img src="https://img.shields.io/badge/Vue.js-yellow?style=flat-square&logo=Vue.js&logoColor=white"/></a> -->
+
 
 ## Blog
 <a href = "https://blog.naver.com/ds030337"> <img src="https://img.shields.io/badge/ChocoBreeze-Green?style=flat-square&logo=Naver&logoColor=white"/> </a>
