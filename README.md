@@ -10,7 +10,7 @@
 <a href = "https://github.com/ChocoBreeze"> <img src="https://img.shields.io/badge/Unity-purple?style=flat-square&logo=Unity&logoColor=white"/></a>
 
 ## Visited
-- <a href="https://github.com/ChocoBreeze"><img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChocoBreeze&count_bg=%23000000&title_bg=%23FF0000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
+<a href="https://github.com/ChocoBreeze"><img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChocoBreeze&count_bg=%23000000&title_bg=%23FF0000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
 
 
 ## Summary
