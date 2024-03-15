@@ -26,7 +26,7 @@
 
 
 ## Blog
-<a href = "https://blog.naver.com/ds030337"> <img src="https://img.shields.io/badge/ChocoBreeze-Green?style=flat-square&logo=Naver&logoColor=white"/> </a>
+<a href = "https://blog.naver.com/chocobreeze"> <img src="https://img.shields.io/badge/ChocoBreeze-Green?style=flat-square&logo=Naver&logoColor=white"/> </a>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
 
